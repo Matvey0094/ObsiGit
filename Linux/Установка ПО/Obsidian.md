@@ -1,4 +1,3 @@
-
 Скачай официальный пакет
 https://obsidian.md/download
 
